@@ -64,7 +64,7 @@ Please use the following password to proceed to installation:
 
 Copy the password and paste it in your browser in the field where it is required.
 
-After entering the initial admin password, Jenkins will bring you to a `Customize Jenkins` page. Click the Install suggested plugins button. This will takes you to a loading screen displaying the progress as Jenkins installs the most popular plugins.
+After entering the initial admin password, Jenkins will bring you to a `Customize Jenkins` page. Click the Install suggested plugins button. This will take you to a loading screen displaying the progress as Jenkins installs the most popular plugins.
 
 After that create the first `Admin User` filling in the requested data, `username`, `password`, etc. Click on Save and Continue and leave the default URL.
 
