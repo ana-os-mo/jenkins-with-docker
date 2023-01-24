@@ -1,6 +1,6 @@
 # Jenkins container with docker installed
 
-Use Jenkins in your local machine from a docker container, being able to use docker inside Jenkins and persisting. This guide was made using the `Ubuntu-22.04` distro on `WSL 2` (make sure you can use docker from that distro).
+Use Jenkins in your local machine from a docker container, being able to use docker inside Jenkins and persisting data after stoping the container. This guide was made using the `Ubuntu-22.04` distro on `WSL 2` (make sure you can use docker from that distro).
 
 In Windows follow the same steps but run the `jenkins-docker-windows.sh` script instead using Git Bash.
 
